@@ -17,7 +17,7 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pilar)
 [![instagram](https://img.shields.io/badge/instagram-F1B04C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flames.dart/)
 
-[![](https://skillicons.dev/icons?i=html,css,js,php,py,dart,macos,react,nodejs,expressjs,laravel,flutter,bootstrap,figma&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,php,py,dart,apple,react,nodejs,expressjs,laravel,flutter,bootstrap,figma&perline=8)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=dexsless&label=Profile%20views&color=0e75b6&style=flat)
 
