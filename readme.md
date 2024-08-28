@@ -17,23 +17,31 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pilar)
 [![instagram](https://img.shields.io/badge/instagram-F1B04C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flames.dart/)
 
+
+
 ## 🧑‍💻 Frontend Technology
 [![](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,bootstrap,figma&perline=8)](https://skillicons.dev)
+
+
 
 ## 🦾 Backend Technology
 [![](https://skillicons.dev/icons?i=js,php,py,nodejs,expressjs,tensorflow,firebase,c&perline=8)](https://skillicons.dev)
 
+
+
 ## 📱 Mobile Technology
 [![](https://skillicons.dev/icons?i=dart,apple,swift,kotlin,tensorflow,flutter&perline=8)](https://skillicons.dev)
+
+
 
 ## 💾 Database
 [![](https://skillicons.dev/icons?i=firebase,mysql,mongodb,laragon,laravelherd&perline=8)](https://skillicons.dev)
 
+
+
 ## 🖥 The Operating System I Use
 [![](https://skillicons.dev/icons?i=apple,windows,linux&perline=8)](https://skillicons.dev)
 
-## 💻 My Fav Text Editor
-[![](https://skillicons.dev/icons?i=xcode,visualstudiocode&perline=8)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=pilarbermanwebster2&label=Profile%20views&color=0e75b6&style=flat)
