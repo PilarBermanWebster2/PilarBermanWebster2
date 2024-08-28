@@ -29,9 +29,11 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 ## 💾 Database
 [![](https://skillicons.dev/icons?i=firebase,mysql,mongodb,laragon,laravelherd&perline=8)](https://skillicons.dev)
 
-## 🖥 the operating system I use
-[![](https://skillicons.dev/icons?i=apple,android,windows,linux&perline=8)](https://skillicons.dev)
+## 🖥 The Operating System I Use
+[![](https://skillicons.dev/icons?i=apple,windows,linux&perline=8)](https://skillicons.dev)
 
+## 💻 My Fav Text Editor
+[![](https://skillicons.dev/icons?i=xcode,visualstudiocode&perline=8)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=pilarbermanwebster2&label=Profile%20views&color=0e75b6&style=flat)
