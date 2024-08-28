@@ -21,29 +21,29 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 
 ## 🧑‍💻 Frontend Technology
 [![](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,bootstrap,figma&perline=8)](https://skillicons.dev)
-
-
-
+<br>
+<br>
+<br>
 ## 🦾 Backend Technology
 [![](https://skillicons.dev/icons?i=js,php,py,nodejs,expressjs,tensorflow,firebase,c&perline=8)](https://skillicons.dev)
-
-
-
+<br>
+<br>
+<br>
 ## 📱 Mobile Technology
 [![](https://skillicons.dev/icons?i=dart,apple,swift,kotlin,tensorflow,flutter&perline=8)](https://skillicons.dev)
-
-
-
+<br>
+<br>
+<br>
 ## 💾 Database
 [![](https://skillicons.dev/icons?i=firebase,mysql,mongodb,laragon,laravelherd&perline=8)](https://skillicons.dev)
-
-
-
+<br>
+<br>
+<br>
 ## 🖥 The Operating System I Use
 [![](https://skillicons.dev/icons?i=apple,windows,linux&perline=8)](https://skillicons.dev)
-
-
-
+<br>
+<br>
+<br>
 ![](https://komarev.com/ghpvc/?username=pilarbermanwebster2&label=Profile%20views&color=0e75b6&style=flat)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pilarbermanwebster2&layout=donut&theme=holi)
