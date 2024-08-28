@@ -27,7 +27,10 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 [![](https://skillicons.dev/icons?i=dart,apple,swift,kotlin,tensorflow,flutter&perline=8)](https://skillicons.dev)
 
 ## 💾 Database
-[![](https://skillicons.dev/icons?i=firebase,mariadb,mongodb&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=firebase,mysql,mongodb,laragon,laravelherd&perline=8)](https://skillicons.dev)
+
+## 🖥 the operating system I use
+[![](https://skillicons.dev/icons?i=apple,android,windows,linux&perline=8)](https://skillicons.dev)
 
 
 
