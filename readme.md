@@ -50,6 +50,12 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=pilarbermanwebster2&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pilarbermanwebster2&layout=donut&theme=holi)
 
