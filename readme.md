@@ -24,45 +24,7 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 - I am Also Happy In Playing Games 🎮
 
 ## 🎧 My Tracks
-<a href="https://status.nmoo.dev/now-playing?open">
-  <img src="https://status.nmoo.dev/now-playing" width="540" height="64">
-</a> 
-|
-<table>
-  <thead>
-    <tr>
-      <th>📈 Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <!-- Update to the correct URL for "Type Shit - Travis Scott" -->
-        <a href="https://status.nmoo.dev/top-tracks?i=1&open">
-          <img src="https://status.nmoo.dev/top-tracks/TypeShit-TravisScott.png" width="540" height="64" alt="Type Shit - Travis Scott">
-        </a>
-      </td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td>
-        <!-- Update to the correct URL for "Now I'm Going from Underground - Kessoku Band" -->
-        <a href="https://status.nmoo.dev/top-tracks?i=2&open">
-          <img src="https://status.nmoo.dev/top-tracks/NowImGoingFromUnderground-KessokuBand.png" width="540" height="64" alt="Now I'm Going from Underground - Kessoku Band">
-        </a>
-      </td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td>
-        <!-- Update to the correct URL for "Jimmy Cooks - Drake" -->
-        <a href="https://status.nmoo.dev/top-tracks?i=3&open">
-          <img src="https://status.nmoo.dev/top-tracks/JimmyCooks-Drake.png" width="540" height="64" alt="Jimmy Cooks - Drake">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+![Screen Shot 2024-08-30 at 09 27 38](https://github.com/user-attachments/assets/f563bb62-cac3-4096-bbd2-3f3c1fecea85)
 
 
 ## 🧑‍💻 Front-end Technology
