@@ -24,12 +24,12 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 - I am Also Happy In Playing Games 🎮
 
 
-## 🧑‍💻 Frontend Technology
+## 🧑‍💻 Front-end Technology
 [![](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,bootstrap,figma&perline=8)](https://skillicons.dev)
 <br>
 <br>
 <br>
-## 🦾 Backend Technology
+## 🦾 Back-end Technology
 [![](https://skillicons.dev/icons?i=js,php,py,nodejs,expressjs,tensorflow,firebase,c&perline=8)](https://skillicons.dev)
 <br>
 <br>
