@@ -24,6 +24,42 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 - I am Also Happy In Playing Games 🎮
 
 ## 🎧 My Tracks
+<a href="https://status.nmoo.dev/now-playing?open">
+  <img src="https://status.nmoo.dev/now-playing" width="540" height="64">
+</a> 
+|
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://status.nmoo.dev/top-tracks?i=1&open">
+          <img src="https://status.nmoo.dev/top-tracks?i=1&title=Type%20Shit%20-%20Travis%20Scott" width="540" height="64">
+        </a>
+      </td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td>
+        <a href="https://status.nmoo.dev/top-tracks?i=2&open">
+          <img src="https://status.nmoo.dev/top-tracks?i=2&title=Now%20im%20going%20from%20underground%20-%20Kessoku%20Band" width="540" height="64">
+        </a>
+      </td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td>
+        <a href="https://status.nmoo.dev/top-tracks?i=3&open">
+          <img src="https://status.nmoo.dev/top-tracks?i=3&title=Jimmy%20Cooks%20-%20Drake" width="540" height="64">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 [![Open in Spotify](https://img.shields.io/badge/Open%20in-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h)
 
 
