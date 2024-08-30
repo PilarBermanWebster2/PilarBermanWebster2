@@ -24,7 +24,8 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 - I am Also Happy In Playing Games 🎮
 
 ## 🎧 My Tracks
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO1mhg4h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Open in Spotify](https://img.shields.io/badge/Open%20in-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h)
+
 
 ## 🧑‍💻 Front-end Technology
 [![](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,bootstrap,figma&perline=8)](https://skillicons.dev)
