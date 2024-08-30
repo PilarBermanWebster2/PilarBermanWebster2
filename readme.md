@@ -18,6 +18,10 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pilar)
 [![instagram](https://img.shields.io/badge/instagram-F1B04C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flames.dart/)
 
+## 🛸 Fun Facts
+- Sometimes I Like Watching Anime 🎥
+- I also Like To Learn Japanese Language 🎌
+- I am Also Happy In Playing Games 🎮
 
 
 ## 🧑‍💻 Frontend Technology
