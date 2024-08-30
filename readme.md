@@ -57,7 +57,7 @@ I’m a passionate **Mobile, Web Developer, and UI/UX Designer** with a love for
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PilarBermanWebster2/count.svg" />
+  <img src="https://profile-counter.glitch.me/apple/count.svg" />
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pilarbermanwebster2&layout=donut&theme=holi)
